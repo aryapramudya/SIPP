@@ -1,0 +1,6 @@
+# Increase maximum execution time
+php_value max_execution_time 0
+# Increase maximum input time
+php_value max_input_time 1200
+# Increase memory limit
+php_value memory_limit 128M
